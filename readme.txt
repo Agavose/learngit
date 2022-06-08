@@ -1,6 +1,1 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Git push to github.
-Creating a new branch is quick and simple.
+https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf
